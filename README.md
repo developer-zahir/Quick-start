@@ -1,4 +1,4 @@
-<div style="text-align:center; margin: auto;">
+<div style="text-align:center; margin:10px auto;">
     <img src="./Quick start/assets/img/download.png" alt="">
 </div>
 
