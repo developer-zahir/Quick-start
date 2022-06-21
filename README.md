@@ -1,4 +1,4 @@
-<img src="./Quick start/assets/img/download.png" alt="">
+<img style="width:100%; margin:auto;" src="./Quick start/assets/img/download.png" alt="">
 
 # Quick-start - 
 <ul>
