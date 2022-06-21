@@ -2,32 +2,36 @@
 <ul>
     <li>HTML</li>
     <li>CSS</li>
-    <li>BOOTSTRAP</li>
+    <li>Bootstrap</li>
     <li>JS</li>
-    <li>FONT AWESOME</li>
+    <li>Font Awesome</li>
 </ul>
+#File location 
 <ul>
-    <li>HTML</li>
-    <li>
-        CSS
+    <li>assets
         <ul>
-            <li></li>
+            <li>img</li>
+            <li>css
+                <ul>
+                    <li>style.css (main style file)</li>
+                    <li>responsive.css</li>
+                    <li>all.min.css (font-awesome)</li>
+                    <li>bootstrap.min.css (bootstrap)</li>
+                </ul>
+            </li>
+            <li>js
+                <ul>
+                    <li>bootstrap.min.js (bootstrap)</li>
+                    <li>jquery.min.js (jQuery v3.6.0)</li>
+                    <li>popper.min.js (bootstrap popper js)</li>
+                    <li>script.js (main js file)</li>
+                </ul>
+            </li>
+            <li>fonts</li>
+            <li>icon</li>
+            <li>font-awesome</li>
         </ul>
     </li>
-    <li>
-        Bootstrap
-            <ul>
-                <li>Bootstrap.min.css</li>
-                <li>Bootstrap.min.js</li>
-                <li>Popper.min.js</li>
-            </ul>
-    </li>
-    <li>jQuery v3.5.0</li>
-    <li>
-        Font-Awesome
-        <ul>
-            <li>all.min.css</li>
-            <li>webfont</li>
-        </ul>
-    </li>
+    <li>index.html</li>
+    <li>style.css</li>
 </ul>
