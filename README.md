@@ -18,8 +18,8 @@
     <li>Font Awesome</li>
 </ul>
 
-### File location 
-<hr>
+## File location -
+
 <ul>
     <li>assets
         <ul>
@@ -53,8 +53,8 @@
 </ul>
 
 
-### Scss file path change - 
-<hr>
+## Scss file path change - 
+
 <a href="https://github.com/glenn2223/vscode-live-sass-compiler" target="_blank">Live Sass Compiler - Github Repository</a>
 <pre>
 <code>
@@ -71,9 +71,8 @@
 
 
 
-### VS Code Basic Setup ---
+## VS Code Basic Setup --
 
-<hr>
 <pre>
     <code>
         {
@@ -124,8 +123,8 @@
 <a href="https://github.com/developer-zahir/vs-code-font" target="_blank">👉 OperatorMono </a>
 
 
-### Extensions -
-<hr>
+## Extensions -
+
 <ol>
     <li><a href="https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag" target="_blank">Auto Rename Tag</a></li>
     <li><a href="https://marketplace.visualstudio.com/items?itemName=wangkechun.html-less-class-completion" target="_blank">HTML-LESS-Class-Completion</a></li>
@@ -153,8 +152,8 @@
 
 
 
-### Follow me - 
-<hr>
+## Follow me - 
+
 <div style=" display: flex; gap: 30px;">
     <span style="display:inline-block; margin:15px;"><a href="https://www.facebook.com/developerzahir/" target="_blank">Facebook </a></span>
     <span style="display:inline-block; margin:15px;"><a href="https://twitter.com/developerzahir" target="_blank">Twitter </a></span>
