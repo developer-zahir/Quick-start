@@ -117,6 +117,9 @@
     </code>
 </pre>
 
+<a href="https://fonts.google.com/specimen/Fira+Code" target="_blank">👉 Fira Code Font Download link </a>
+
+
 ## Extensions -
 <ol>
     <li><a href="https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag" target="_blank">Auto Rename Tag</a></li>
