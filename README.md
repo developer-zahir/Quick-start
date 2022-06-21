@@ -67,6 +67,84 @@
 </code>
 </pre>
 
+
+
+
+# VS Code Basic Setup ---
+<pre>
+    <code>
+        {
+            "workbench.startupEditor": "none",
+            "[javascript]": {
+                "editor.defaultFormatter": "esbenp.prettier-vscode"
+            },
+            "git.enableSmartCommit": true,
+            "git.autofetch": true,
+            "files.autoSave": "afterDelay",
+            "git.confirmSync": false,
+            "editor.fontFamily": "Fira Code",
+            "workbench.iconTheme": "material-icon-theme",
+            "editor.fontLigatures": true,
+            "terminal.integrated.defaultProfile.windows": "Git Bash",
+            "[html]": {
+                "editor.defaultFormatter": "esbenp.prettier-vscode"
+            },
+            "liveServer.settings.donotShowInfoMsg": true,
+            "prettier.printWidth": 160,
+            "editor.mouseWheelZoom": true,
+            "[jsonc]": {
+                "editor.defaultFormatter": "vscode.json-language-features"
+            },
+            "editor.cursorSmoothCaretAnimation": true,
+            "workbench.editor.enablePreview": false,
+            "explorer.confirmDelete": false,
+            "diffEditor.ignoreTrimWhitespace": false,
+            "bracket-pair-colorizer-2.depreciation-notice": false,
+            "workbench.colorTheme": "Dracula Soft",
+            "[css]": {
+                "editor.defaultFormatter": "esbenp.prettier-vscode"
+            },
+            
+            "liveSassCompile.settings.formats": [{
+                "format": "expanded",
+                "extensionName": ".css",
+                "savePath": "~/../css"
+            }
+        ],
+        "liveSassCompile.settings.generateMap": false,
+        
+        }
+    </code>
+</pre>
+
+# Extensions --
+<ol>
+    <li><a href="https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag" target="_blank">Auto Rename Tag</a></li>
+    <li><a href="https://marketplace.visualstudio.com/items?itemName=wangkechun.html-less-class-completion" target="_blank">HTML-LESS-Class-Completion</a></li>
+    <li><a href="https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode" target="_blank">Prettier - Code formatter</a></li>
+    <li><a href="https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme" target="_blank">Material Icon Theme</a></li>
+    <li><a href="https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer" target="_blank">Live Server</a></li>
+    <li><a href="https://marketplace.visualstudio.com/items?itemName=glenn2223.live-sass" target="_blank">Live Sass Compiler</a></li>
+    <li><a href="https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion" target="_blank">IntelliSense for CSS class names in HTML</a></li>
+    <li><a href="https://marketplace.visualstudio.com/items?itemName=solnurkarim.html-to-css-autocompletion" target="_blank">HTML to CSS autocompletion</a></li>
+    <li><a href="https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula" target="_blank">Dracula Official</a></li>
+    <li><a href="https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker" target="_blank">Code Spell Checker</a></li>
+    <li><a href="https://marketplace.visualstudio.com/items?itemName=robertz.code-snapshot" target="_blank">Code Snapshot</a></li>
+    <li><a href="https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner" target="_blank">Code Runner</a></li>
+    <li><a href="https://marketplace.visualstudio.com/items?itemName=thekalinga.bootstrap4-vscode" target="_blank">Bootstrap 4, Font awesome 4, Font Awesome 5 Free & Pro snippets</a></li>
+</ol>
+
+
+
+
+
+
+
+
+
+
+
+
 ### Follow me on - 
 <div style="display:flex ; gap: 30px;">
     <li><a href="https://www.facebook.com/developerzahir/" target="_blank">Facebook </a></li>
