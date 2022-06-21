@@ -53,7 +53,7 @@
 </ul>
 
 
-# Scss file path change - 
+## Scss file path change - 
 <a href="https://github.com/glenn2223/vscode-live-sass-compiler" target="_blank">Live Sass Compiler - Github Repository</a>
 <pre>
 <code>
@@ -67,6 +67,10 @@
 </code>
 </pre>
 
+### Follow me on - 
 <div style="display:flex ; gap: 30px;">
-    <li><a href="https://www.facebook.com/developerzahir/">Facebook <i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+    <li><a href="https://www.facebook.com/developerzahir/" target="_blank">Facebook </a></li>
+    <li><a href="https://twitter.com/developerzahir" target="_blank">Twitter </a></li>
+    <li><a href="https://www.instagram.com/developer_zahir" target="_blank">Instagram </a></li>
+    <li><a href="https://www.linkedin.com/in/developer-zahir/" target="_blank">Linkedin </a></li>
 </div>
