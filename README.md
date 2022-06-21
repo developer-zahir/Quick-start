@@ -146,6 +146,7 @@
 
 
 ### Follow me - 
+<hr>
 <div style=" display: flex; gap: 30px;">
     <span style="display:inline-block; margin:15px;"><a href="https://www.facebook.com/developerzahir/" target="_blank">Facebook </a></span>
     <span style="display:inline-block; margin:15px;"><a href="https://twitter.com/developerzahir" target="_blank">Twitter </a></span>
