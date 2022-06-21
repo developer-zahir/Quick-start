@@ -1,4 +1,7 @@
-<img style="width:100%; margin:auto;" src="./Quick start/assets/img/download.png" alt="">
+<div style="text-align:center; margin: auto;">
+    <img src="./Quick start/assets/img/download.png" alt="">
+</div>
+
 
 # Quick-start - 
 <ul>
