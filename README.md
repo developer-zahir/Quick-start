@@ -26,11 +26,14 @@
             <li>img</li>
             <li>css
                 <ul>
-                    <li>style.css (main style file)</li>
+                    <li>main-style.css (main style file)</li>
                     <li>responsive.css</li>
                     <li>all.min.css (font-awesome)</li>
                     <li>bootstrap.min.css (bootstrap)</li>
                 </ul>
+            </li>
+            <li>sass
+                <li>main.style.scss (main scss file)</li>
             </li>
             <li>js
                 <ul>
@@ -48,3 +51,16 @@
     <li>index.html</li>
     <li>style.css</li>
 </ul>
+
+
+# Scss file path change - 
+
+<code>
+    "liveSassCompile.settings.formats": [{
+        "format": "expanded",
+        "extensionName": ".css",
+        "savePath": "~/../css"
+    }
+],
+"liveSassCompile.settings.generateMap": false,
+</code>
