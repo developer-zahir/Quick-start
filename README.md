@@ -70,7 +70,7 @@
 
 
 
-# VS Code Basic Setup ---
+## VS Code Basic Setup ---
 <pre>
     <code>
         {
@@ -117,7 +117,7 @@
     </code>
 </pre>
 
-# Extensions --
+## Extensions -
 <ol>
     <li><a href="https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag" target="_blank">Auto Rename Tag</a></li>
     <li><a href="https://marketplace.visualstudio.com/items?itemName=wangkechun.html-less-class-completion" target="_blank">HTML-LESS-Class-Completion</a></li>
@@ -145,8 +145,8 @@
 
 
 
-### Follow me on - 
-<div style="display:flex ; gap: 30px;">
+## Follow me - 
+<div style=" display: flex; gap: 30px;">
     <li><a href="https://www.facebook.com/developerzahir/" target="_blank">Facebook </a></li>
     <li><a href="https://twitter.com/developerzahir" target="_blank">Twitter </a></li>
     <li><a href="https://www.instagram.com/developer_zahir" target="_blank">Instagram </a></li>
