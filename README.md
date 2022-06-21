@@ -56,6 +56,7 @@
 # Scss file path change - 
 
 <code>
+<pre>
     "liveSassCompile.settings.formats": [{
         "format": "expanded",
         "extensionName": ".css",
@@ -63,4 +64,5 @@
     }
 ],
 "liveSassCompile.settings.generateMap": false,
+</pre>
 </code>
