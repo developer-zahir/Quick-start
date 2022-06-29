@@ -56,7 +56,8 @@
 
 ## Scss file path change - 
 
-<a href="https://github.com/glenn2223/vscode-live-sass-compiler" target="_blank">Live Sass Compiler - Github Repository</a>
+<a href="https://github.com/glenn2223/vscode-live-sass-compiler" target="_blank">Live Sass Compiler - Github Repository</a> <br> 
+<a href="https://www.w3schools.com/sass/default.php" target="_blank">Learn scss</a>
 <pre>
 <code>
     "liveSassCompile.settings.formats": [{
