@@ -26,14 +26,15 @@
             <li>img</li>
             <li>css
                 <ul>
-                    <li>main-style.css (main style file)</li>
+                    <li>style.css (main style file)</li>
                     <li>responsive.css</li>
                     <li>all.min.css (font-awesome)</li>
                     <li>bootstrap.min.css (bootstrap)</li>
                 </ul>
             </li>
             <li>sass
-                <li>main.style.scss (main scss file)</li>
+                <li>style.scss (main scss file)</li>
+                <li>_variable.scss </li>
             </li>
             <li>js
                 <ul>
