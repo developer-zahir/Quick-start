@@ -121,7 +121,7 @@
     </code>
 </pre>
 
-<a href="https://fonts.google.com/specimen/Fira+Code" target="_blank">👉 Fira Code Font Download link </a>
+<a href="https://fonts.google.com/specimen/Fira+Code" target="_blank">👉 Fira Code Font Download link </a> <br>
 <a href="https://github.com/developer-zahir/vs-code-font" target="_blank">👉 OperatorMono </a>
 
 
